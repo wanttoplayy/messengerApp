@@ -1,4 +1,6 @@
 import Image from "next/image";
+import AuthForm from "./components/AuthForm";
+import Input from "@/app/components/inputs/Input";
 
 export default function Home() {
   return (
